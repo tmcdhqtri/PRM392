@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="header_background">#9A5A50</color>
+    <color name="shop_name_color">#000000</color>
+    <color name="colorPrimary">#9c1326</color>
+    <color name="colorPrimaryDark">#990000</color>
+</resources>
